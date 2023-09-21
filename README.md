@@ -10,19 +10,19 @@
 
  🌱: I’m currently learning **Flutter & ML**
 
- 👨‍💻: All of my profiles are available at [https://bento.me/anoop-kumar](https://bento.me/anoop-kumar)
+ 👨‍💻: Visit my profiles are available at [https://bento.me/anoop-kumar](https://bento.me/anoop-kumar)
 
  💬: Ask me about **HTML5, CSS, JAVA**
 
- 📫: How to reach me **anoopadraja@gmail.com**
+ 📫: Contact me on **anoopadraja@gmail.com**
  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/anoopkumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anoopkumara" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/anoopkumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkumara" height="40" width="50" /></a>
+<a href="https://codepen.io/AnoopkumarA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anoopkumara" height="40" width="50" /></a>
+<a href="[https://linkedin.com/in/anoopkumara](https://www.linkedin.com/in/anoop-kumar-a-26a6941b9/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkumara" height="40" width="50" /></a>
 <a href="https://instagram.com/anoop_adru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anoop_adru" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/techmediamalayalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techmediamalayalam" height="40" width="50" /></a>
+<a href="youtube.com/c/TechMediaMalayalam12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techmediamalayalam" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
