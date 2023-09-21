@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopkumara" alt="anoopkumara" /></a> </p>
+
 <hr>
 
 
@@ -32,7 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoopkumara&show_icons=true&locale=en" alt="anoopkumara" /></p><hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoopkumara&" alt="anoopkumara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoopkumara&" alt="anoopkumara" /></p> <hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopkumara" alt="anoopkumara" /></a> </p>
 
 
 
