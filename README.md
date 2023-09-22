@@ -3,13 +3,10 @@
 <h3 align="center">A passionate frontend developer</h3>
 <br>
 <br>
-
-<img align="right" alt="Coding" width="100" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-
-
-
 <hr>
+
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 
  🔭: I’m currently working on **StartUp**
