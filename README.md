@@ -1,4 +1,4 @@
-![logo](https://github.com/AnoopkumarA/anoopkumara/blob/main/banner.png)
+![logo](https://github.com/AnoopkumarA/anoopkumara/blob/main/banners.png)
 <h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <br>
