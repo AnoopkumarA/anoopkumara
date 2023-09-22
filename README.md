@@ -1,4 +1,4 @@
-![Header](./your-header-banner.png)
+![logo](https://github.com/AnoopkumarA/anoopkumara/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <br>
