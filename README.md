@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 
