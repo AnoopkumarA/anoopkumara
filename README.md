@@ -17,7 +17,7 @@
 
  👨‍💻: Visit my profiles  at [https://bento.me/anoop-kumar](https://bento.me/anoop-kumar)
 
- 💬: Ask me about **HTML5, CSS, JAVA**
+ 💬: Ask me about **HTML5, CSS, JAVA, REACT, TYPESCRIPT, TAILWINDCSS**
 
  📫: Contact me on **anoopadraja@gmail.com**
  <br>
