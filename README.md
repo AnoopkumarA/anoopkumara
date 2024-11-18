@@ -15,7 +15,7 @@
 
  🌱: I’m currently learning **Flutter & ML**
 
- 👨‍💻: Visit my profiles  at [https://bento.me/anoop-kumar](https://bento.me/anoop-kumar)
+ 👨‍💻: Visit my profiles  at [https://annopkumar.vercel.app](https://anoopkumar.vercel.app)
 
  💬: Ask me about **HTML5, CSS, JAVA, REACT, TYPESCRIPT, TAILWINDCSS**
 
