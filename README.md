@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://codepen.io/AnoopkumarA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anoopkumara" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/anoop-kumar-a-26a6941b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopkumara" height="40" width="50" /></a>
-<a href="https://instagram.com/anoop_adru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anoop_adru" height="40" width="50" /></a>
+<a href="https://www.instagram.com/a_n_0_0_pz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anoop_adru" height="40" width="50" /></a>
 <a href="https://www.youtube.com/c/TechMediaMalayalam12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techmediamalayalam" height="40" width="50" /></a>
 </p>
 
